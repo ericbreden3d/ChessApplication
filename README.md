@@ -1,4 +1,4 @@
-Chess Application
+Chess Application, 
 Author: Eric Breden
 
 Although this project is a work-in-progress, it contains all necessary gameplay logic to allow for basic multiplayer chess gameplay.
