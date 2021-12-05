@@ -12,5 +12,6 @@ the ChessPece interface's implementing classes.
 To view the source code, please refer to the directory of .java files located in ~\src\main\java\ChessPackage.
 
 To run the program:
-- download the executable JAR file in the root directory
+- Download the executable JAR file in the root directory
 - Via the command line, type "java -jar Chess-1.0.0.jar"
+- Requires a minimum JRE version 1.8
